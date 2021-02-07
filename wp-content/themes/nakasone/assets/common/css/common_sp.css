@@ -1,0 +1,21 @@
+/* element */
+body {
+  position: relative;
+  font-family: 'Noto Serif JP', serif;
+  font-weight: 300;
+  line-height: 1.2;
+  letter-spacing: 0.05em;
+  color: #666;
+  padding-top: 50px; }
+
+a {
+  text-decoration: none;
+  color: #666; }
+
+section.content {
+  width: 100%;
+  overflow: hidden; }
+
+section.content .content_outer {
+  width: calc(100% - 20px);
+  margin: 0 auto; }

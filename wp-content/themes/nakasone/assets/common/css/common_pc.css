@@ -1,0 +1,22 @@
+/* element */
+body {
+  position: relative;
+  font-family: 'Noto Serif JP', serif;
+  font-weight: 300;
+  line-height: 1.5;
+  letter-spacing: 0.05em;
+  color: #666;
+  padding-top: 80px; }
+
+a {
+  text-decoration: none;
+  color: #666; }
+
+section.content {
+  width: 100%; }
+
+section.content .content_outer {
+  max-width: 1200px;
+  min-width: 1000px;
+  padding: 20px 20px;
+  margin: 0 auto; }

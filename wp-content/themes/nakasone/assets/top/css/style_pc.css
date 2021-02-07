@@ -1,0 +1,16 @@
+/* ci */
+section.ci .ci_content {
+  max-width: 800px;
+  margin: 0 auto; }
+
+.ci_content .ci_concept {
+  font-size: 24px;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 20px; }
+
+.ci_content .ci_main {
+  text-align: center; }
+
+.ci_content .ci_main:not(:last-child) {
+  margin-bottom: 10px; }
